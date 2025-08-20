@@ -96,14 +96,6 @@ May 2024–Jul 2024, Jun 2025–Aug 2025
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2602-SA&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhay2602-SA&theme=radical)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhay2602-SA&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Followers](https://img.shields.io/github/followers/Abhay2602-SA?style=social)
-![Stars](https://img.shields.io/github/stars/Abhay2602-SA?style=social)
-
-![Languages Pie](https://quickchart.io/chart?c={type:'pie',data:{labels:['JavaScript','Python','C++'],datasets:[{data:[60,30,10]}]}})
 
 <!--
 Let’s collaborate and build something amazing! 🚀
