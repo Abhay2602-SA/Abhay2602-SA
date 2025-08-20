@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate Frontend Developer with hands-on experience in React.js, JavaScript, HTML, and CSS. I thrive on solving complex problems and building innovative solutions. My journey includes impactful internships, real-world projects in Web3, MERN stack, and AI integrations. I’m a strong believer in collaboration, communication, and feedback-driven improvements.
+Passionate Frontend Developer with hands-on experience in React.js, JavaScript, HTML, and CSS. I thrive on solving complex problems and building innovative solutions. My journey includes impactful int[...]
 
 ---
 
@@ -90,9 +90,11 @@ May 2024–Jul 2024, Jun 2025–Aug 2025
 
 ---
 
+## 📊 GitHub Stats
+
+![Abhay Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhay2602-SA&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2602-SA&layout=compact&theme=radical)
+
 <!--
 Let’s collaborate and build something amazing! 🚀
 -->
-````I need the SHA (unique identifier) of your existing README.md file to make the update. Would you like me to fetch the latest README.md file and its SHA, or do you already have it?
-
-Let me know your preference, and I’ll proceed!
