@@ -17,10 +17,7 @@
 ## ⚡ Identity Scan
 
 <div align="center">
-
-<!-- Custom scan-line HUD effect. Replace the <image href="..."> inside assets/scan.svg with your own photo. -->
 <img src="assets/scan.svg" width="100%" alt="identity scan"/>
-
 </div>
 
 <br/>
@@ -28,18 +25,11 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<!--
-  This is generated automatically by .github/workflows/snake.yml (Platane/snk action).
-  Move that workflow file into `.github/workflows/snake.yml` in your repo, push to main,
-  enable Actions, and this will populate itself within a few minutes.
--->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay2602-SA/Abhay2602-SA/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhay2602-SA/Abhay2602-SA/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Abhay2602-SA/Abhay2602-SA/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
 </div>
 
 <br/>
@@ -47,9 +37,7 @@
 ## 🧬 Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,nodejs,express,fastapi,react,tailwind,vite,postgres,mysql,mongodb,sqlite,docker,aws,git,github,postman&theme=dark" />
-
 </div>
 
 <br/>
@@ -60,36 +48,48 @@
 <tr>
 <td width="50%" valign="top">
 
-**[InvoiceAI](https://github.com/Abhay2602-SA)** — AI-powered invoicing platform
-<br/><sub>FastAPI · React · PostgreSQL · Docker · Groq LLM</sub>
-<br/>JWT auth, natural-language invoice generation, OCR receipt scanning, automated reminders.
+**Nebula Player — AI Video Player (Web Showcase)**
+<br/><sub>HTML · CSS · JS · WASM · getUserMedia</sub>
+<br/>Showcase + live browser demo of an AI-powered video player — gaze detection, gesture control, voice commands, OCR subtitles, and live translation, all running in-browser.
+<br/><br/>
+<a href="https://github.com/Abhay2602-SA/Nebula_Web"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://nebula-web-theta.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00FFF2?style=flat-square&logo=vercel&logoColor=000000"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-**[Microgig](https://github.com/Abhay2602-SA)** — Freelance & gig marketplace
+**MicroGig — Freelance & Gig Marketplace**
 <br/><sub>React · Node.js · MongoDB · Stripe Connect · Socket.io</sub>
-<br/>Escrow payments, full contract lifecycle, real-time chat, admin dispute resolution.
+<br/>Full-stack marketplace with fixed-price, hourly, and milestone contracts, Stripe Connect escrow payments, and real-time chat.
+<br/><br/>
+<a href="https://github.com/Abhay2602-SA/MicroGig"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://micro-gig-omega.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00FFF2?style=flat-square&logo=vercel&logoColor=000000"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[AS Watch-Together](https://github.com/Abhay2602-SA)** — Real-time watch-party platform
-<br/><sub>Node.js · Socket.io · WebRTC · SQLite</sub>
-<br/>Synced playback, WebRTC video chat, AI-powered Q&A and live subtitle translation.
+**InvoiceAI — AI-Powered Business Management Platform**
+<br/><sub>FastAPI · React · PostgreSQL · Docker · Groq LLM</sub>
+<br/>JWT auth, natural-language invoice generation, OCR receipt scanning, automated overdue-invoice reminders.
+<br/><br/>
+<a href="https://github.com/Abhay2602-SA/INVOICE-AI"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-**[SmartFace Attendance](https://github.com/Abhay2602-SA)** — Facial-recognition attendance
-<br/><sub>Electron · face-api.js (TensorFlow.js)</sub>
-<br/>On-device face recognition, liveness detection, role-based dashboards.
+**AS Watch-Together — Real-Time Watch-Party Platform**
+<br/><sub>Node.js · Socket.io · WebRTC · SQLite</sub>
+<br/>Synced playback, WebRTC voice/video chat, Google OAuth, and a Groq-powered AI assistant for Q&A and subtitle translation.
+<br/><br/>
+<a href="https://github.com/Abhay2602-SA"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
+
+<div align="center"><sub>More builds coming soon.</sub></div>
 
 <br/>
 
@@ -97,10 +97,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhay2602-SA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E14&title_color=00FFF2&icon_color=00FFF2&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhay2602-SA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E14&title_color=00FFF2&icon_color=00FFF2&text_color=c9d1d9&cache_seconds=86400" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay2602-SA&theme=tokyonight&hide_border=true&background=0A0E14&ring=00FFF2&fire=7F5CFF&currStreakLabel=00FFF2" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2602-SA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E14&title_color=00FFF2&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2602-SA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E14&title_color=00FFF2&text_color=c9d1d9&cache_seconds=86400" height="165"/>
 
 </div>
 
